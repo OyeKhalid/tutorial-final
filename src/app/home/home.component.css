@@ -12,6 +12,7 @@
 
 .color-light{
     background: #57B3F1;
+    overflow: hidden;
 }
 
 input.text{
@@ -32,6 +33,7 @@ input.btn{
 }
 .life-container{
     background-color: #3FA0E1;
+    padding: .4em;
     font-weight: bold;
     cursor: pointer;
     grid-column: 2;  
